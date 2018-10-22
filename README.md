@@ -5,22 +5,9 @@
 npm install
 ```
 
-### Compiles and hot-reloads for development
+### Reproduce
 ```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
+npm run lint-error
 ```
 
-### Run your tests
-```
-npm run test
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
+bad.ts.vue will be corrupted
